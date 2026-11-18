@@ -23,6 +23,7 @@ CSV 是**每個賽程組一份**。
    - 如果這個組別打的是發球得分 11 分，請記得逐場改成 SIDEOUT。
 
    <!-- 截圖：匯出 DUPR CSV 視窗，每場的計分方式 RALLY／SIDEOUT -->
+   ![匯出 DUPR CSV 視窗：每場的計分方式 RALLY／SIDEOUT](../assets/export-csv-dialog.png)
 
 4. 如果有球員沒有填 DUPR ID，視窗上方會提醒「**有 N 位球員尚未填寫 DUPR ID**」，並列出名字。這些球員在檔案裡的 DUPR ID 欄位會是空白，匯入 DUPR 時需要手動補齊。
 5. 按「**⬇ 匯出 CSV**」，檔案會下載或開啟分享。

@@ -18,6 +18,7 @@ updated: 2026-11-17
 3. 看確認窗的內容，按確認。
 
 <!-- 截圖：結束活動確認窗 -->
+![結束活動確認窗：取消與結束並上傳 DUPR](../assets/finalize-event-confirm-dialog.png)
 
 ## 你是這場活動的主辦
 
