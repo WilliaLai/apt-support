@@ -11,7 +11,7 @@ DUPR 後台支援逐項調整授權內容，不需要先 Disconnect 再重連。
 
 ## 步驟
 
-1. 開 <https://dashboard.dupr.com>，用您的 DUPR 帳號登入。
+1. 開 [https://dashboard.dupr.com](https://dashboard.dupr.com)，用您的 DUPR 帳號登入。
 2. 右上頭像 → 「Settings」。
 3. 找「Connected Apps」或「Authorized Partners」。
 4. 找到「APT Asia Pickleball Tour」→ 點進權限詳情。

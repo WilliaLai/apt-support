@@ -11,7 +11,7 @@ updated: 2026-11-19
 
 ## 步驟
 
-1. 開 <https://dashboard.dupr.com>。
+1. 開 [https://dashboard.dupr.com](https://dashboard.dupr.com)。
 2. Settings → Connected Apps。
 3. 找 APT Asia Pickleball Tour → Disconnect。
 
