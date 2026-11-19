@@ -15,7 +15,7 @@ updated: 2026-11-19
 2. Settings → Connected Apps。
 3. 找 APT Asia Pickleball Tour → Disconnect。
 
-斷開後 APT 內您的 DUPR ID、分數欄位會保留但不再自動同步；如果您要重新連結，同樣從「編輯個人資料」進去點按鈕。
+斷開後 APT 內您的 DUPR ID、分數欄位會保留但不再自動同步；如果您要重新連結，同樣從「我的 → 查看個人資料」進入「編輯資料」頁，在「比賽用資料」點「🔗 連結 DUPR 帳號」。
 
 ## 相關說明
 
