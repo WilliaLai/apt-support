@@ -1,8 +1,8 @@
 ---
 title: 匯出 CSV
 type: how-to
-audience: 團長、主辦
-updated: 2026-11-17
+audience: 團長、同時是場主的主辦
+updated: 2026-11-21
 ---
 
 # 匯出 CSV

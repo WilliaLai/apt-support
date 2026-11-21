@@ -1,8 +1,8 @@
 ---
 title: 從通知前往上傳區
 type: how-to
-audience: 團長、主辦
-updated: 2026-11-20
+audience: 團長、同時是場主的主辦
+updated: 2026-11-21
 ---
 
 # 從通知前往上傳區

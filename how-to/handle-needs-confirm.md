@@ -1,8 +1,8 @@
 ---
 title: 處理「需要你確認」的場次
 type: how-to
-audience: 團長、主辦
-updated: 2026-11-17
+audience: 團長、同時是場主的主辦
+updated: 2026-11-21
 ---
 
 # 處理「需要你確認」的場次
