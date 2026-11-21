@@ -143,5 +143,5 @@ App 一定會先跳出確認窗，內容是：
 接下來可以看看：
 
 - [誰能做什麼（角色對照表）](../reference/roles-and-notifications.md#誰能做什麼)：主辦、場主和球員各自能做什麼。
-- [從通知前往上傳區](../how-to/from-notification-to-upload.md)：別人結束活動時，你會收到提醒。
+- [從通知前往上傳區](../how-to/from-notification-to-upload.md)：不能上傳的人結束活動、而且還有場次待處理時，你會收到提醒。
 - [暫時無法上傳到 DUPR 時怎麼辦](../how-to/rep-account-unavailable.md)
