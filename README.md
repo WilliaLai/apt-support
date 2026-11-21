@@ -28,7 +28,7 @@ APT App 的使用說明，依[Diátaxis](https://diataxis.fr/)的方式分成教
 - [處理「需要你確認」的場次](how-to/handle-needs-confirm.md)：逐場決定要不要送到 DUPR。
 - [匯出 CSV](how-to/export-csv.md)：不能一鍵上傳時，把成績匯出成 CSV 自行匯入。
 - [暫時無法上傳到 DUPR 時怎麼辦](how-to/rep-account-unavailable.md)：上傳區顯示「暫時無法上傳到 DUPR」時的處理。
-- [主辦（非團長）結束活動](how-to/host-finalize-event.md)：非團長的主辦結束活動後會發生什麼。
+- [場主（非團長）結束活動](how-to/host-finalize-event.md)：誰能結束活動，以及場主結束活動後會發生什麼。
 - [從通知前往上傳區](how-to/from-notification-to-upload.md)：收到上傳提醒後怎麼前往上傳區。
 - [DUPR 認證被退回後重新申請](how-to/reapply-after-rejection.md)：依退回理由調整後重新申請。
 
